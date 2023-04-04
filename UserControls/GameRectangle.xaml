@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserControl x:Class="Evon.UserControls.GameRectangle" Height="180" Width="219" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:local="clr-namespace:Evon.UserControls" MouseRightButtonDown="doRightClick">
+  <Grid Margin="0,0,0,0">
+    <Border Name="MainBorder" Margin="5" Background="#FF141414" CornerRadius="5">
+      <Grid>
+        <Border Name="___No_Name_" CornerRadius="5" VerticalAlignment="Top" Height="112" Width="209" HorizontalAlignment="Center">
+          <Border.Background>
+            <ImageBrush x:Name="ScriptImage" Stretch="Fill" ImageSource="/Evon;component/prj1kcjg.bmp" RenderOptions.BitmapScalingMode="HighQuality" />
+          </Border.Background>
+        </Border>
+        <TextBlock Name="ScriptTitle" Margin="5,0,47,5" TextWrapping="Wrap" Text="Epic Egg Hunt 2021 Script | Ruin Easter for little kids!" VerticalAlignment="Bottom" TextBlock.Foreground="#FFFFFFFF" TextBlock.FontFamily="/Evon;component/Graphics/Fonts/#Poppins Medium" TextBlock.FontSize="10" Height="48" />
+        <Button Name="ExecuteB" Content="Play" HorizontalAlignment="Right" Margin="0,0,10,42" VerticalAlignment="Bottom" Width="32" Background="#FF9700FF" Padding="0" BorderThickness="0" Foreground="#FFFFFFFF" FontFamily="/Evon;component/Graphics/Fonts/#Font Awesome 5 Free Solid" ButtonAssist.CornerRadius="5">
+          <Button.Effect>
+            <DropShadowEffect x:Name="ButtonGlow" ShadowDepth="0" Color="#FF9700FF" Opacity="1" />
+          </Button.Effect>
+        </Button>
+      </Grid>
+    </Border>
+  </Grid>
+</UserControl>

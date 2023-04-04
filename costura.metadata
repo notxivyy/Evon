@@ -1,0 +1,17 @@
+costura.colorpicker.dll.compressed|3.3.1.0|ColorPicker, Version=3.3.1.0, Culture=neutral, PublicKeyToken=1c61eec504ce2276|ColorPicker.dll|F60352BB3C7ED9A3EB9B27A115B0F616B6CE39AF|129536
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.fluxapi.dll.compressed|1.0.0.0|FluxAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|FluxAPI.dll|FB6F45BC5C4342743857BF19165AEA929D36353B|11776
+costura.krnlapi.dll.compressed|1.0.0.0|KrnlAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|KrnlAPI.dll|234561D33898D389C39C3FE9BFF4CE9F6D10BC2B|1276416
+costura.materialdesigncolors.dll.compressed|2.0.4.3|MaterialDesignColors, Version=2.0.4.3, Culture=neutral, PublicKeyToken=df2a72020bd7962a|MaterialDesignColors.dll|F539CDE0F743F0084D3FCCA0526DC62D530E92EE|302080
+costura.materialdesigncolors.pdb.compressed|||MaterialDesignColors.pdb|D82F71892B5FCE2649ADCA0826DCBF985EFC0A0F|17948
+costura.materialdesignthemes.wpf.dll.compressed|4.3.0.3|MaterialDesignThemes.Wpf, Version=4.3.0.3, Culture=neutral, PublicKeyToken=df2a72020bd7962a|MaterialDesignThemes.Wpf.dll|75F083EC2075A742EA23E4CB8262AB0545A6A5E2|8782336
+costura.materialdesignthemes.wpf.pdb.compressed|||MaterialDesignThemes.Wpf.pdb|766A283ADE29CAA2276132217ADA3EC617B70926|101924
+costura.microsoft.web.webview2.core.dll.compressed|1.0.1020.30|Microsoft.Web.WebView2.Core, Version=1.0.1020.30, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.Core.dll|DE68A96DD2DC3664A0C8B5E3EA23860199E6EAF1|273312
+costura.microsoft.web.webview2.winforms.dll.compressed|1.0.1020.30|Microsoft.Web.WebView2.WinForms, Version=1.0.1020.30, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.WinForms.dll|3C5ABD8237EAB4675AB079CE691800368DBD59E5|33192
+costura.microsoft.web.webview2.wpf.dll.compressed|1.0.1020.30|Microsoft.Web.WebView2.Wpf, Version=1.0.1020.30, Culture=neutral, PublicKeyToken=2a8ab48044d2601e|Microsoft.Web.WebView2.Wpf.dll|A284A40AA30C9C61A0E079210896513104FB863E|37800
+costura.microsoft.xaml.behaviors.dll.compressed|1.1.0.0|Microsoft.Xaml.Behaviors, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|Microsoft.Xaml.Behaviors.dll|B60B1B9E3C38EB29E0BDFC5C0313CCFB8C5D0AE9|145288
+costura.microsoft.xaml.behaviors.pdb.compressed|||Microsoft.Xaml.Behaviors.pdb|07D81E6AE8FC5EB90742BB8834F4442002719601|53880
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|7D0AD03FBDA1C24F883116B940717E596073AE96|701992
+costura.oxygen api.dll.compressed|1.0.0.0|Oxygen API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Oxygen API.dll|5A4C0B346A7FE5E2C7624D86426C40819BF8CACB|298496
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
